@@ -1,0 +1,24 @@
+.body{
+    margin: 0;
+}
+.card {
+margin: 500px;
+height: fit-content;
+background-color: #a4b4c2;
+border-radius: 25px;
+border: solid 5px #11cf93;
+}
+.boxImage {
+    width: 100px;
+    height: 100px;
+    background-color: #b0c925;
+    border: 1px solid #8d0861;
+    border-radius: 50px;
+}
+.estiloH1 {
+    font-family: monospace, sans-serif;
+    font-size: 30px;
+}
+.estiloRosa {
+    color: magenta
+}
